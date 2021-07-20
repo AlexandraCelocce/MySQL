@@ -1,0 +1,1 @@
+select * from tb_funcionaries where salario like '%2%'
