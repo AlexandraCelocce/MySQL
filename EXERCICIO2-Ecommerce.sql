@@ -1,1 +1,1 @@
-create database db_ecommerce; 
+SELECT * from tb_produtos
